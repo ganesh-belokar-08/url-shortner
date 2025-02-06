@@ -1,0 +1,24 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "An application for forming short URL's.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganesh-belokar-08/url-shortner.git"
+  },
+  "author": "Ganesh Belokar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganesh-belokar-08/url-shortner/issues"
+  },
+  "homepage": "https://github.com/ganesh-belokar-08/url-shortner#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "shortid": "^2.2.17",
+    "uuid": "^11.0.5"
+  }
+}
